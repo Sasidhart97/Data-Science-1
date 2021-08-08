@@ -2,7 +2,7 @@
 
 ## In this project tried to analyze airbnb data to understand pricing, toursit and booking pattern in Seattle city
 
-## Dataset can be downloaded from here - https://www.kaggle.com/airbnb/seattle
+## Dataset can be downloaded from here - "airbnb_data.zip" file
 
 ## Required libraries are
 #### Numpy
