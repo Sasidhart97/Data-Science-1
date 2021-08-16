@@ -6,8 +6,8 @@
 ### These kind of questions triggered me to do the following analysis
 
 ## What are the questions I am trying to answer with this notebook?
-### Imagine you are working in a company who analyze hotels/guest houses/vacation rentals bookings, tourist visiting and pricing patterns.
-### You would like to use Airbnb_Seattle data to answer your questions
+### Imagine you are working in a company who analyze hotels/guest houses/vacation rentals bookings, tourist visiting and pricing patterns. You would like to use Airbnb_Seattle data to answer your questions
+
 ### Business context - You would like to understand and assess people inflow, price varying factors and predictions
 ### Questions -
 ### 1) What are the busiest times to visit Seattle?
