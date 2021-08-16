@@ -24,3 +24,10 @@
 ## Files in the repository
 ### aibnb_data.zip - Data used for analysis
 ### airbnb_seattle_analysis.ipynb - A complete notebook with all the results.
+
+## Results
+### Please find the analysis summary and results at this blog - https://medium.com/@sasidharturaga/6-practices-which-can-make-you-a-better-data-professional-b7c0a77a154e
+
+## Acknowledgements
+
+### Data is avaialble in - https://www.kaggle.com/airbnb/seattle and thanks udacity for the project.
